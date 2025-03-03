@@ -1,0 +1,5 @@
+Verde - #39e2ab
+Azul - #45c8fe
+Rosa - #e28eed
+
+WhatsApp button color: #25d366
